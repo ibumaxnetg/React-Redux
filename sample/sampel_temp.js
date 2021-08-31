@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 
-import "./App.css";
+import "./App_temp.css";
 
 class H2O extends React.Component {
   constructor(props) {
